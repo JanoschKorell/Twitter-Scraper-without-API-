@@ -8,3 +8,5 @@ The following limitations exist:
 1. since you are working with Selenium and therefore with the browser, this method is very slow and it is possible that something does not load or loads poorly; however, this is rare.
 
 2. of course only what can be seen in the frontend can be read in.
+
+3. if errors occur, please write me at "issues". 
