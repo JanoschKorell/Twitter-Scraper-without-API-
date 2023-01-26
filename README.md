@@ -9,4 +9,6 @@ The following limitations exist:
 
 2. of course only what can be seen in the frontend can be read in.
 
-3. if errors occur, please write me at "issues". 
+3. the continue_ paramater makes it possible to continue aborted extractions.
+
+4. if errors occur, please write me at "issues". 
